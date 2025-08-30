@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou **Kaio Pedreira Campos**, estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre – FATEC Santana de Parnaíba).  
+Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre – FATEC Santana de Parnaíba).  
 💻 Atualmente estou aprendendo **C** e me aprofundando em **lógica de programação** e **funções**.  
 
 ---

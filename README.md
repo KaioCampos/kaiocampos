@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre – FATEC Santana de Parnaíba).  
+Sou **Kaio Pedreira Campos**, estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre – FATEC Santana de Parnaíba).  
 💻 Atualmente estou aprendendo **C** e me aprofundando em **lógica de programação** e **funções**.  
 
 ---
@@ -21,8 +21,7 @@ Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas** (2�
 ---
 
 ## 📌 Projetos em Destaque
-- [🔢 Par ou Ímpar em C](https://github.com/kaiocampos/ParImpar) – Programa simples para verificar se um número é par ou ímpar.  
-- [📂 Outro Projeto](https://github.com/kaiocampos/NomeDoProjeto) – Breve descrição do que ele faz.  
+- [🔢 Par ou Ímpar em C](https://github.com/kaiocampos/ParImpar) – Programa simples para verificar se um número é par ou ímpar.
 
 ---
 
@@ -42,3 +41,4 @@ Sou **Kaio Campos**, estudante de **Análise e Desenvolvimento de Sistemas** (2�
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kaiocampos.kaiocampos)  
 
 ⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução.*
+
